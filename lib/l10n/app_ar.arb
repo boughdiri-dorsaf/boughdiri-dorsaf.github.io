@@ -1,0 +1,38 @@
+{
+    "@@locale": "ar",
+    "appTitle": "درساف بوغديري - مطور تطبيقات الجوال",
+    "heroTitle": "مطور تطبيقات الجوال",
+    "heroSubtitle": "Flutter • iOS • Android • Full-Stack",
+    "aboutMeTitle": "نبذة عني",
+    "aboutMeText1": "أنا مطور تطبيقات جوال شغوف وذو خبرة مع سجل مثبت في بناء تطبيقات VoIP ومراسلة عالية الجودة منشورة على Google Play Store وApple App Store.",
+    "aboutMeText2": "مع الخبرة في Flutter وDart وKotlin وSwift وNodeJS، أتخصص في إنشاء تجارب متعددة المنصات سلسة توفر مشاركة مستخدم وأداء استثنائي.",
+    "featuredProjectsTitle": "المشاريع المميزة",
+    "comunikPhoneTitle": "Comunik Phone",
+    "comunikPhoneDescription": "منصة مراسلة وتواصل متطورة مع رسائل مشفرة وتسجيلات مكالمات ومصادقة FaceID ودعم الوضع المظلم الأنيق. متاح على Google Play Store وApple App Store.",
+    "comunikVisioTitle": "Comunik Visio",
+    "comunikVisioDescription": "تطبيق مؤتمرات فيديو احترافي للاجتماعات الافتراضية السلسة. ميزات مكالمات فيديو عالية الجودة ومشاركة الشاشة وإدارة الاجتماعات. متاح على Google Play Store وApple App Store.",
+    "comunikUnifiedTitle": "Comunik Unified",
+    "allInOneSolution": "حل تواصل شامل يجمع المراسلة والمكالمات الصوتية ومكالمات الفيديو في تطبيق واحد. واجهة مبسطة لتجربة تواصل سلسة. متاح على Google Play Store وApple App Store.",
+    "comunikChatTitle": "Comunik Chat",
+    "comunikChatDescription": "تطبيق مراسلة تعاوني مصمم لتواصل الفريق والتعاون في المشاريع. ميزات محادثات جماعية ومشاركة ملفات ورسائل فورية. متاح على Google Play Store وApple App Store.",
+    "comunikRmcTitle": "Comunik RMC",
+    "comunikRmcDescription": "حل شامل متكامل لإدارة تفاعلات العملاء عبر قنوات متعددة تشمل Messenger وWhatsApp وInstagram وTelegram والمزيد. ميزات إشراف متقدمة وتقارير وأدوات إدارة الفريق.",
+    "viewApp": "عرض التطبيق",
+    "technicalSkillsTitle": "المهارات التقنية",
+    "mobileDevelopment": "تطوير تطبيقات الجوال",
+    "backendDatabase": "الخلفية وقاعدة البيانات",
+    "toolsPlatforms": "الأدوات والمنصات",
+    "getInTouch": "تواصل معي",
+    "choosePlatform": "اختر المنصة",
+    "selectAppStore": "اختر متجر التطبيقات المفضل لديك لعرض {appName}",
+    "@selectAppStore": {
+        "placeholders": {
+            "appName": {}
+        }
+    },
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "cancel": "إلغاء",
+    "copyright": "© 2024 دورساف بوغديري. جميع الحقوق محفوظة.",
+    "languageSelector": "اللغة"
+}

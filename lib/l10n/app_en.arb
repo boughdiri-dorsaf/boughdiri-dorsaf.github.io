@@ -1,0 +1,38 @@
+{
+    "@@locale": "en",
+    "appTitle": "Dorsaf Boughdiri - Mobile Developer",
+    "heroTitle": "Mobile Developer",
+    "heroSubtitle": "Flutter • iOS • Android • Full-Stack",
+    "aboutMeTitle": "About Me",
+    "aboutMeText1": "I am a passionate and experienced Mobile Developer with a proven track record of building high-quality VoIP and Chat applications that are published on both Google Play Store and Apple App Store.",
+    "aboutMeText2": "With expertise in Flutter, Dart, Kotlin, Swift, and NodeJS, I specialize in creating seamless cross-platform experiences that deliver exceptional user engagement and performance.",
+    "featuredProjectsTitle": "Featured Projects",
+    "comunikPhoneTitle": "Comunik Phone",
+    "comunikPhoneDescription": "A sophisticated chat and communication platform with encrypted messaging, call recordings, FaceID authentication, and elegant dark mode support. Available on both Google Play Store and Apple App Store.",
+    "comunikVisioTitle": "Comunik Visio",
+    "comunikVisioDescription": "Professional video conferencing app for seamless virtual meetings. Features high-quality video calls, screen sharing, and meeting management. Available on both Google Play Store and Apple App Store.",
+    "comunikUnifiedTitle": "Comunik Unified",
+    "allInOneSolution": "All-in-one communication solution combining chat, voice calls, and video calls in a single app. Streamlined interface for seamless communication experience. Available on both Google Play Store and Apple App Store.",
+    "comunikChatTitle": "Comunik Chat",
+    "comunikChatDescription": "Collaborative chat application designed for team communication and project collaboration. Features group chats, file sharing, and real-time messaging. Available on both Google Play Store and Apple App Store.",
+    "comunikRmcTitle": "Comunik RMC",
+    "comunikRmcDescription": "A comprehensive all-in-one solution for managing customer interactions across multiple channels including Messenger, WhatsApp, Instagram, Telegram and more. Features advanced supervision, reporting, and team management tools.",
+    "viewApp": "View App",
+    "technicalSkillsTitle": "Technical Skills",
+    "mobileDevelopment": "Mobile Development",
+    "backendDatabase": "Backend & Database",
+    "toolsPlatforms": "Tools & Platforms",
+    "getInTouch": "Get In Touch",
+    "choosePlatform": "Choose Platform",
+    "selectAppStore": "Select your preferred app store to view {appName}",
+    "@selectAppStore": {
+        "placeholders": {
+            "appName": {}
+        }
+    },
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "cancel": "Cancel",
+    "copyright": "© 2024 Dorsaf Boughdiri. All rights reserved.",
+    "languageSelector": "Language"
+}
