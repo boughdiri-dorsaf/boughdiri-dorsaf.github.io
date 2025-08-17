@@ -1,11 +1,11 @@
 {
-    "name": "portfolio_page",
-    "short_name": "portfolio_page",
+    "name": "Dorsaf Boughdiri - Mobile Developer Portfolio",
+    "short_name": "Dorsaf Portfolio",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#1e3a8a",
+    "theme_color": "#1e3a8a",
+    "description": "Professional Mobile Developer Portfolio showcasing Flutter, iOS, and Android applications published on Google Play Store and Apple App Store.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
